@@ -85,7 +85,7 @@ This project strengthened my understanding of:
 ## 🧾 Author
 👩‍💻 **Ayesha Abbasi**  
 📍 Data Enthusiast | Exploring the intersection of Data & Insights  
-💼 [LinkedIn Profile](https://www.linkedin.com/) *(add your link)*  
+  
 
 ---
 
